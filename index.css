@@ -1,0 +1,79 @@
+
+body{
+    background-color: #160516;
+}
+
+
+#demo{
+    position: relative;
+    right: 150px;
+}
+
+#demo1{
+    position: relative;
+    right: 310px;
+}
+
+#demo2{
+    position: relative;
+    right: 460px;
+}
+
+#demo10{
+    display: flex;
+    position: relative;
+    top: 100px;
+    left: 110px;
+    justify-content: space-around;
+
+}
+
+#ee{
+    display: flex;
+    position: relative;
+    top: 100px;
+    left: 110px;
+    justify-content: space-around;
+}
+
+#ss{
+    display: flex;
+    position: relative;
+    top: 100px;
+    left: 110px;
+    justify-content: space-around;
+}
+
+#tt{
+    display: flex;
+    position: relative;
+    top: 100px;
+    left: 110px;
+    justify-content: space-around;
+}
+
+#bb{
+    display: flex;
+    position: relative;
+    top: 100px;
+    left: 110px;
+    justify-content: space-around;
+}
+
+#ex{
+    display: flex;
+    position: relative;
+    top: 100px;
+    left: 110px;
+    justify-content: space-around;
+
+}
+
+
+#be{
+    display: flex;
+    position: relative;
+    top: 100px;
+    left: 110px;
+    justify-content: space-around;
+}
